@@ -3,8 +3,8 @@ pipeline {
     stages {			
         stage('Build') {			
             steps {			
-                echo 'DEVOLOP MASTER UPSTREAM executed'		
-                     }			
+                echo 'pipeline-triggers-upstream-job1 executed'			
+            }			
         }			
-   }		
+    }			
 }
