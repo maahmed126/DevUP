@@ -3,7 +3,7 @@ pipeline {
     stages {			
         stage('Build') {			
             steps {			
-                echo 'DEVUP MASTER UPSTREAM executed'		
+                echo 'DEVOLOP MASTER UPSTREAM executed'		
                      }			
         }			
    }		
